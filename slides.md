@@ -99,22 +99,27 @@ p{
 
 
 
-<div class="flex">
+<div >
 
-<img v-click src="/public/graph/java-langage.png" class="absolute h-100" />
-<!-- <p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p> -->
+<img
+  src="/public/graph/java-langage.png"
+  class="absolute h-100 rounded-xl"
+  />
+<p v-after class="absolute bottom-0 left-45 transform -rotate-10">First step!</p>
 <!-- https://sli.dev/guide/animations.html#click-animations -->
 <img
   v-click
   class="relative left-50 h-100"
   src="/public/graph/javaC.png"
 />
-<!-- <p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p> -->
+<p v-after class="absolute bottom-0 left-90  transform -rotate-10">Second step!</p>
+
 <img
   v-click
-  class="relative left-49 h-100"
-  src="/public/graph//theClass.png"
+  class="absolute top-24 h-100"
+  src="/public/graph/java-process.png"
 />
+<p v-after class="absolute bottom-0 left-150  transform -rotate-10">Final step!</p>
 </div>
 ---
 
