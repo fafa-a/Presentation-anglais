@@ -1075,6 +1075,72 @@
               "font": "script",
               "textAlign": "middle"
             }
+          },
+          "871da6eb-f6b5-4e1a-0057-a025cb1e9347": {
+            "id": "871da6eb-f6b5-4e1a-0057-a025cb1e9347",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 23,
+            "point": [
+              1558,
+              626
+            ],
+            "rotation": 0,
+            "text": "byte code java",
+            "style": {
+              "color": "black",
+              "size": "medium",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "b635a81b-30ff-4ef9-22e1-e21d4000b576": {
+            "id": "b635a81b-30ff-4ef9-22e1-e21d4000b576",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 23,
+            "point": [
+              1822,
+              626
+            ],
+            "rotation": 0,
+            "text": "byte code java",
+            "style": {
+              "color": "black",
+              "size": "medium",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "b350b279-c7b0-46f1-3677-3f322b446f8b": {
+            "id": "b350b279-c7b0-46f1-3677-3f322b446f8b",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 23,
+            "point": [
+              2086,
+              626
+            ],
+            "rotation": 0,
+            "text": "byte code java",
+            "style": {
+              "color": "black",
+              "size": "medium",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
           }
         },
         "bindings": {}
