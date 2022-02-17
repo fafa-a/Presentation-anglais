@@ -109,11 +109,6 @@ p{
 
 # The compilation in java
 
-
-
-
-
-
 <div >
 
 <img
@@ -134,8 +129,14 @@ p{
   class="absolute top-24 h-100"
   src="/public/graph/java-process.png"
 />
-<p v-after class="absolute bottom-0 left-150  transform -rotate-10">Final step!</p>
+<p v-after class="absolute bottom-0 left-150  transform -rotate-10">Third step!</p>
 </div>
+
+<style>
+.slidev-page-4{
+ background-color: #0e2a35;
+}
+</style>  
 
 ---
 

@@ -1053,6 +1053,28 @@
               0.5,
               0.5
             ]
+          },
+          "efd6a5a0-6748-43d9-392b-519bc7030999": {
+            "id": "efd6a5a0-6748-43d9-392b-519bc7030999",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 28,
+            "point": [
+              1167.5,
+              148
+            ],
+            "rotation": 0,
+            "text": " ",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
           }
         },
         "bindings": {}
