@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: "/public/quinton-coetzee-gpa8Y_Fk7Rg-unsplash.jpg"
+# background: "/public/quinton-coetzee-gpa8Y_Fk7Rg-unsplash.jpg"
 # apply any windi css classes to the current slide
 class: 'text-center'
 # https://sli.dev/custom/highlighters.html
@@ -29,6 +29,15 @@ a Bisous Calins production
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
+<style>
+.slidev-page-1{
+    background-image: url("/public/quinton-coetzee-gpa8Y_Fk7Rg-unsplash.jpg")!important;
+}
+.slidev-layout p{
+  
+    opacity:0.7;
+}
+</style>  
 
 ---
 
@@ -45,6 +54,9 @@ Languages often allow the low-level mechanisms of the machine to be abstracted, 
 <br>
 
 <style>
+.slidev-page-2{
+ background-color: #0e2a35;
+}
 h1 {
   background-color: #2B90B6;
   background-image: linear-gradient(45deg,  #146b8c 10%, #4EC5D4 20%);
@@ -75,6 +87,9 @@ In a compiled language, the program needs to be rebuilt whenever you make a chan
 <br>
 
 <style>
+.slidev-page-3{
+ background-color: #0e2a35;
+}
 h1 {
   background-color: #2B90B6;
   background-image: linear-gradient(45deg,  #146b8c 10%, #4EC5D4 20%);
@@ -121,6 +136,7 @@ p{
 />
 <p v-after class="absolute bottom-0 left-150  transform -rotate-10">Final step!</p>
 </div>
+
 ---
 
 layout: image-right
