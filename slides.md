@@ -206,18 +206,19 @@ The result of this action will create a file myCode.class in our folder.
   color:#BF97BA
 }
 </style>
+
 <!--
 <ol>
 <li>The bytecode is independent of the machine that compiled it. It doesn't depend on the CPU or OS or anything else on the machine, and whatever the machine, it will be the same code compiled.<br>
 Whether you compile on mac or linux or windows with amd CPU or intel CPU or whatever it will be the same bytecode for the same source code.</li>
 <li>In order to execute our code, we need to pass our bytecode as parameters to a command. The command to type BEWARE the originality is there, this command is java myCode. We don't need the .class.
 </li>
-<li>With the java command, we invoke the JVM which stand for Java Virtual Machine.<br>
+<li>With the java command, we invoke the JAYVM which stand for Java Virtual Machine.<br>
 This one allows us to execute bytecode. It depends on the CPU, OS. When we download the JAYDK it automatically contains the virtual machine.
 </li>
 </ol>
 It's same bytecode everywhere, which allows it to run on any machine.<br>
-It's the JVM that will vary, and that'll be able to execute any bytecode we will have generated.
+It's the JAYVM that will vary, and that'll be able to execute any bytecode we will have generated.
 -->
 
 ---
@@ -259,7 +260,7 @@ p{
 }
 </style>
 <!--
-nique toi tout seul Gianbernardo !
+Casses la baraque Gianbernardo !
 
  -->
 
@@ -345,7 +346,9 @@ p{
 }
 
 </style>
-
+<!-- 
+T'es beau t'es fort 
+-->
 ---
 
 # Pros and Cons
